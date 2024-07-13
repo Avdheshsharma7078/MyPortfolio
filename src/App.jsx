@@ -138,8 +138,8 @@ function App() {
                 <h3 className="text-2xl font-semibold mt-8">OYO_Clone</h3>
                 <p className="text-gray-400 text-sm mt-2">
                   A web application which has features of login, signup,
-                  selecting food from the menu and checking out with the food
-                  selected. Based on Nextjs,MongoDB .
+                  selecting Hotel from the menu and checking out with adding the
+                  selected feature. Based on Nextjs,MongoDB .
                 </p>
 
                 <div className="flex mt-12 gap-2">
